@@ -1,0 +1,12 @@
+'use strict';
+const fs = require('fs');
+const path = require('path');
+const html = fs.readFileSync(path.join(__dirname, '..', 'index.html'), 'utf8');
+const js = fs.readFileSync(path.join(__dirname, '..', 'game.js'), 'utf8');
+const ids = [...html.matchAll(/id="([^"]+)"/g)].map(a => a[1]);
+const faltando = ids.filter(i => !js.includes("$('" + i + "')"));
+const refsJs = [...js.matchAll(/\$\('([^']+)'\)/g)].map(a => a[1]);
+const inexistentes = refsJs.filter(id => !ids.includes(id));
+console.log('IDs no HTML:', ids.length);
+console.log('IDs HTML sem getElementById no JS:', faltando.length ? faltando : 'nenhum');
+console.log('getElementById no JS sem ID no HTML:', inexistentes.length ? inexistentes : 'nenhum');

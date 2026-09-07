@@ -1,0 +1,486 @@
+{
+  "versao": 4,
+  "idioma": "pt-BR",
+  "frases": [
+    {
+      "id": 1,
+      "phrase": "NADA NA VIDA DEVE SER TEMIDO SOMENTE COMPREENDIDO",
+      "language": "pt-BR",
+      "field": "Química",
+      "subfield": "Radioatividade",
+      "type": "citação",
+      "scientist": "Marie Curie",
+      "difficulty": 2,
+      "explanation": "Frase célebre atribuída a Marie Curie, síntese de sua postura diante da ciência: compreender a natureza é a forma de superar o medo. Duas vezes Nobel (Física 1903, Química 1911), ela dedicou a vida ao estudo da radioatividade.",
+      "source": {
+        "title": "Pierre Curie: With Autobiographical Notes",
+        "author": "Marie Curie",
+        "year": "1923",
+        "publisher": "The Macmillan Company",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-05"
+    },
+    {
+      "id": 2,
+      "phrase": "PERSEVERANÇA E SOBRETUDO CONFIANÇA EM NÓS MESMOS",
+      "language": "pt-BR",
+      "field": "Química",
+      "subfield": "Radioatividade",
+      "type": "citação",
+      "scientist": "Marie Curie",
+      "difficulty": 2,
+      "explanation": "Em seu livro autobiográfico sobre Pierre Curie, Marie Curie escreveu que a vida não é fácil para ninguém, mas que se deve ter perseverança e, acima de tudo, confiança em si mesmo — a receita de sua trajetória científica.",
+      "source": {
+        "title": "Pierre Curie: With Autobiographical Notes",
+        "author": "Marie Curie",
+        "year": "1923",
+        "publisher": "The Macmillan Company",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-06"
+    },
+    {
+      "id": 3,
+      "phrase": "A IMAGINAÇÃO É MAIS IMPORTANTE QUE O CONHECIMENTO",
+      "language": "pt-BR",
+      "field": "Física",
+      "subfield": "Pensamento Científico",
+      "type": "citação",
+      "scientist": "Albert Einstein",
+      "difficulty": 2,
+      "explanation": "Em entrevista de 1929, Einstein afirmou que a imaginação importa mais que o conhecimento: enquanto o conhecimento é limitado, a imaginação abraça o mundo inteiro e impulsiona hipóteses e descobertas.",
+      "source": {
+        "title": "What Life Means to Einstein (entrevista)",
+        "author": "The Saturday Evening Post",
+        "year": "1929",
+        "publisher": "The Saturday Evening Post",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-07"
+    },
+    {
+      "id": 4,
+      "phrase": "O IMPORTANTE É NÃO PARAR DE QUESTIONAR",
+      "language": "pt-BR",
+      "field": "Física",
+      "subfield": "Pensamento Científico",
+      "type": "citação",
+      "scientist": "Albert Einstein",
+      "difficulty": 2,
+      "explanation": "Einstein via a curiosidade como motor da ciência: a essência do fazer científico é continuar perguntando, nunca perder a vontade de investigar o desconhecido.",
+      "source": {
+        "title": "Ideas and Opinions",
+        "author": "Albert Einstein",
+        "year": "1954",
+        "publisher": "Crown Publishers",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-08"
+    },
+    {
+      "id": 5,
+      "phrase": "DEUS NÃO JOGA DADOS COM O UNIVERSO",
+      "language": "pt-BR",
+      "field": "Física",
+      "subfield": "Física Quântica",
+      "type": "citação",
+      "scientist": "Albert Einstein",
+      "difficulty": 3,
+      "explanation": "Em carta a Max Born (1926), Einstein resumiu sua objeção à aleatoriedade na mecânica quântica: para ele, o acaso não governa os fundamentos do universo.",
+      "source": {
+        "title": "The Born-Einstein Letters",
+        "author": "Max Born (organizador)",
+        "year": "1971",
+        "publisher": "Walker and Company",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-09"
+    },
+    {
+      "id": 6,
+      "phrase": "SE ENXERGUEI MAIS LONGE FOI POR ESTAR SOBRE OS OMBROS DE GIGANTES",
+      "language": "pt-BR",
+      "field": "Física",
+      "subfield": "Mecânica",
+      "type": "citação",
+      "scientist": "Isaac Newton",
+      "difficulty": 3,
+      "explanation": "Em carta a Robert Hooke (1675), Newton reconhece que suas descobertas dependem do trabalho de gerações anteriores: a ciência avança sobre os ombros de gigantes.",
+      "source": {
+        "title": "Carta a Robert Hooke",
+        "author": "Isaac Newton",
+        "year": "1675",
+        "publisher": "The Royal Society",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-10"
+    },
+    {
+      "id": 7,
+      "phrase": "O QUE NÃO CONSIGO CRIAR NÃO COMPREENDO",
+      "language": "pt-BR",
+      "field": "Física",
+      "subfield": "Pensamento Científico",
+      "type": "citação",
+      "scientist": "Richard Feynman",
+      "difficulty": 2,
+      "explanation": "A frase estava no quadro-negro de Richard Feynman quando ele morreu (1988) e resume seu método: só considerava compreendido o que conseguisse reconstruir do zero.",
+      "source": {
+        "title": "Quadro-negro do Caltech (What I cannot create, I do not understand)",
+        "author": "Richard P. Feynman",
+        "year": "1988",
+        "publisher": "California Institute of Technology",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-11"
+    },
+    {
+      "id": 8,
+      "phrase": "TODA A CIÊNCIA É FÍSICA OU COLECIONAR SELOS",
+      "language": "pt-BR",
+      "field": "Física",
+      "subfield": "Pensamento Científico",
+      "type": "citação",
+      "scientist": "Ernest Rutherford",
+      "difficulty": 1,
+      "explanation": "Frase atribuída a Rutherford, à frente do laboratório de Cambridge: um comentário irônico sobre áreas da ciência mais descritivas que explicativas — só a física entendia como 'ciência de verdade'.",
+      "source": {
+        "title": "Rutherford: Recollections of the Cambridge Days",
+        "author": "Mark Oliphant",
+        "year": "1972",
+        "publisher": "Elsevier",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-12"
+    },
+    {
+      "id": 9,
+      "phrase": "NÃO TEMOS DINHEIRO ENTÃO TEMOS QUE PENSAR",
+      "language": "pt-BR",
+      "field": "Física",
+      "subfield": "Física Atômica",
+      "type": "citação",
+      "scientist": "Ernest Rutherford",
+      "difficulty": 2,
+      "explanation": "Rutherford, que desvendou o núcleo atômico, costumava lembrar que a falta de recursos forçava o pensamento criativo: a escassez, não o luxo, cultivava a inteligência de seu laboratório.",
+      "source": {
+        "title": "Rutherford and the Nature of the Atom",
+        "author": "E. N. da C. Andrade",
+        "year": "1964",
+        "publisher": "Doubleday",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-13"
+    },
+    {
+      "id": 10,
+      "phrase": "O OPOSTO DE UMA VERDADE PROFUNDA PODE SER OUTRA VERDADE PROFUNDA",
+      "language": "pt-BR",
+      "field": "Física",
+      "subfield": "Física Quântica",
+      "type": "citação",
+      "scientist": "Niels Bohr",
+      "difficulty": 4,
+      "explanation": "Bohr, um dos criadores da física quântica, ensinava que verdades científicas profundas não se opõem a falsidades, mas a outras verdades profundas — uma defesa da complementaridade e da tolerância ao paradoxo.",
+      "source": {
+        "title": "Niels Bohr: A Centenary Volume",
+        "author": "A. P. French e P. J. Kennedy (organizadores)",
+        "year": "1985",
+        "publisher": "Harvard University Press",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-14"
+    },
+    {
+      "id": 11,
+      "phrase": "A MATÉRIA NÃO SE CRIA NEM SE PERDE",
+      "language": "pt-BR",
+      "field": "Química",
+      "subfield": "Estequiometria",
+      "type": "citação",
+      "scientist": "Antoine Lavoisier",
+      "difficulty": 1,
+      "explanation": "A frase sintetiza a lei da conservação da massa, enunciada por Lavoisier no século XVIII: nas transformações químicas, a matéria não é criada nem destruída, apenas se reorganiza.",
+      "source": {
+        "title": "Traité Élémentaire de Chimie",
+        "author": "Antoine Lavoisier",
+        "year": "1789",
+        "publisher": "Chez Cuchet, Paris",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-15"
+    },
+    {
+      "id": 12,
+      "phrase": "AS ESPÉCIES NÃO SÃO IMUTÁVEIS",
+      "language": "pt-BR",
+      "field": "Biologia",
+      "subfield": "Evolução",
+      "type": "citação",
+      "scientist": "Charles Darwin",
+      "difficulty": 1,
+      "explanation": "Em 'A Origem das Espécies' (1859), Darwin afirma que as espécies mudam ao longo do tempo — não são formas fixas e imutáveis. Essa ideia é o fundamento da teoria da evolução por seleção natural.",
+      "source": {
+        "title": "On the Origin of Species",
+        "author": "Charles Darwin",
+        "year": "1859",
+        "publisher": "John Murray",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-16"
+    },
+    {
+      "id": 13,
+      "phrase": "NOS CAMPOS DA OBSERVAÇÃO O ACASO FAVORECE A MENTE PREPARADA",
+      "language": "pt-BR",
+      "field": "Biologia",
+      "subfield": "Microbiologia",
+      "type": "citação",
+      "scientist": "Louis Pasteur",
+      "difficulty": 3,
+      "explanation": "Em discurso em Lille (1854), Pasteur ensinou que, nos campos da observação, o acaso ajuda apenas quem se preparou — a mente treinada percebe o que a casualidade oferece.",
+      "source": {
+        "title": "Discurso na Universidade de Lille",
+        "author": "Louis Pasteur",
+        "year": "1854",
+        "publisher": "Lille, França",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-17"
+    },
+    {
+      "id": 14,
+      "phrase": "A CIÊNCIA NÃO TEM PÁTRIA",
+      "language": "pt-BR",
+      "field": "Biologia",
+      "subfield": "Pensamento Científico",
+      "type": "citação",
+      "scientist": "Louis Pasteur",
+      "difficulty": 1,
+      "explanation": "Frase atribuída a Pasteur: a ciência é patrimônio da humanidade e não conhece fronteiras nacionais — o conhecimento construído por um país beneficia o mundo inteiro.",
+      "source": {
+        "title": "Œuvres de Pasteur (reunião de discursos)",
+        "author": "Louis Pasteur",
+        "year": "1922",
+        "publisher": "Masson et Cie",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-18"
+    },
+    {
+      "id": 15,
+      "phrase": "CIÊNCIA E VIDA NÃO PODEM NEM DEVEM SER SEPARADAS",
+      "language": "pt-BR",
+      "field": "Biologia",
+      "subfield": "Biologia Molecular",
+      "type": "citação",
+      "scientist": "Rosalind Franklin",
+      "difficulty": 2,
+      "explanation": "Em sua correspondência, Rosalind Franklin — cujas imagens de difração de raios X revelaram a dupla hélice do DNA — defendia que a ciência está integrada à vida cotidiana, não separada dela.",
+      "source": {
+        "title": "Correspondência de Rosalind Franklin (1940)",
+        "author": "Rosalind Franklin",
+        "year": "1940",
+        "publisher": "Arquivos pessoais (King's College London)",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-19"
+    },
+    {
+      "id": 16,
+      "phrase": "O TODO É MAIOR QUE A SOMA DAS PARTES",
+      "language": "pt-BR",
+      "field": "Biologia",
+      "subfield": "Filosofia da Biologia",
+      "type": "citação",
+      "scientist": "Aristóteles",
+      "difficulty": 1,
+      "explanation": "Na 'Metafísica', Aristóteles formula o princípio de que o conjunto possui propriedades que as partes isoladas não apresentam — ideia que antecipa o pensamento sistêmico em biologia e nas demais ciências.",
+      "source": {
+        "title": "Metafísica (Livro VII-VIII)",
+        "author": "Aristóteles",
+        "year": "c. 350 a.C.",
+        "publisher": "Trad. br. Editora Loyola",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-20"
+    },
+    {
+      "id": 17,
+      "phrase": "A MATEMÁTICA É A RAINHA DAS CIÊNCIAS",
+      "language": "pt-BR",
+      "field": "Matemática",
+      "subfield": "Divulgação",
+      "type": "citação",
+      "scientist": "Carl Friedrich Gauss",
+      "difficulty": 1,
+      "explanation": "Frase célebre atribuída a Gauss, registrada por seus biógrafos: a matemática como fundamento e linguagem das demais ciências — 'a rainha' que reina sobre o saber científico.",
+      "source": {
+        "title": "Gauss zum Gedächtniss",
+        "author": "Wolfgang Sartorius von Waltershausen",
+        "year": "1856",
+        "publisher": "Leipzig",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-21"
+    },
+    {
+      "id": 18,
+      "phrase": "TEMOS QUE SABER E VAMOS SABER",
+      "language": "pt-BR",
+      "field": "Matemática",
+      "subfield": "Fundamentos da Matemática",
+      "type": "citação",
+      "scientist": "David Hilbert",
+      "difficulty": 2,
+      "explanation": "Em discurso radiofônico em Königsberg (1930), Hilbert encerrou sua defesa da matemática com este lema — 'temos que saber; vamos saber!' — mais tarde gravado em seu túmulo.",
+      "source": {
+        "title": "Discurso sobre os fundamentos da matemática",
+        "author": "David Hilbert",
+        "year": "1930",
+        "publisher": "Königsberg, Alemanha",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-22"
+    },
+    {
+      "id": 19,
+      "phrase": "NÃO HÁ CAMINHO REAL PARA A GEOMETRIA",
+      "language": "pt-BR",
+      "field": "Matemática",
+      "subfield": "Geometria",
+      "type": "citação",
+      "scientist": "Euclides",
+      "difficulty": 1,
+      "explanation": "Transmitida pelo filósofo Proclo: teria sido a resposta de Euclides ao rei Ptolomeu, que pedia um caminho mais fácil nos Elementos — não existe atalho real para a geometria, há que estudar.",
+      "source": {
+        "title": "Proclus: A Commentary on the First Book of Euclid's Elements",
+        "author": "Proclo de Lícia",
+        "year": "1970 (trad.)",
+        "publisher": "Princeton University Press",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-23"
+    },
+    {
+      "id": 20,
+      "phrase": "PENSO LOGO EXISTO",
+      "language": "pt-BR",
+      "field": "Matemática",
+      "subfield": "Filosofia da Matemática",
+      "type": "citação",
+      "scientist": "René Descartes",
+      "difficulty": 1,
+      "explanation": "O cogito cartesiano, apresentado no 'Discurso do Método' (1637), funda o conhecimento moderno a partir da dúvida radical: a única certeza primeira é a do próprio pensamento. Descartes foi matemático e filósofo.",
+      "source": {
+        "title": "Discours de la méthode",
+        "author": "René Descartes",
+        "year": "1637",
+        "publisher": "Leiden, Holanda",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-24"
+    },
+    {
+      "id": 21,
+      "phrase": "NA MATEMÁTICA VOCÊ NÃO ENTENDE AS COISAS APENAS SE ACOSTUMA",
+      "language": "pt-BR",
+      "field": "Matemática",
+      "subfield": "Fundamentos da Matemática",
+      "type": "citação",
+      "scientist": "John von Neumann",
+      "difficulty": 3,
+      "explanation": "Frase atribuída a von Neumann, um dos pais da computação moderna: na matemática, entender não vem de intuição imediata, mas de convivência e familiaridade com as ideias.",
+      "source": {
+        "title": "The Man from the Future: The Visionary Life of John von Neumann",
+        "author": "Ananyo Bhattacharya",
+        "year": "2021",
+        "publisher": "W. W. Norton",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-25"
+    },
+    {
+      "id": 22,
+      "phrase": "SOMOS FEITOS DE MATÉRIA DE ESTRELAS",
+      "language": "pt-BR",
+      "field": "Astronomia",
+      "subfield": "Divulgação",
+      "type": "citação",
+      "scientist": "Carl Sagan",
+      "difficulty": 1,
+      "explanation": "Em 'Cosmos' (1980), Sagan lembra que o carbono, o cálcio e o ferro de nosso corpo foram forjados no interior de estrelas: somos, literalmente, matéria estelar — a forma do cosmos conhecer a si mesmo.",
+      "source": {
+        "title": "Cosmos",
+        "author": "Carl Sagan",
+        "year": "1980",
+        "publisher": "Random House",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-26"
+    },
+    {
+      "id": 23,
+      "phrase": "O UNIVERSO FOI ESCRITO EM CARACTERES MATEMÁTICOS",
+      "language": "pt-BR",
+      "field": "Astronomia",
+      "subfield": "Pensamento Científico",
+      "type": "citação",
+      "scientist": "Galileu Galilei",
+      "difficulty": 3,
+      "explanation": "Em 'O Ensaiador' (Il Saggiatore, 1623), Galileu afirma que o grande livro do universo está escrito em linguagem matemática — princípio que funda a física moderna e o método científico.",
+      "source": {
+        "title": "Il Saggiatore (O Ensaiador)",
+        "author": "Galileo Galilei",
+        "year": "1623",
+        "publisher": "Accademia dei Lincei",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-27"
+    },
+    {
+      "id": 24,
+      "phrase": "AS MÁQUINAS ME SURPREENDEM COM GRANDE FREQUÊNCIA",
+      "language": "pt-BR",
+      "field": "Computação",
+      "subfield": "Inteligência Artificial",
+      "type": "citação",
+      "scientist": "Alan Turing",
+      "difficulty": 2,
+      "explanation": "Em palestra de 1951, Alan Turing — criador do teste que leva seu nome — admitiu, com humildade, que as máquinas o surpreendiam com frequência, abrindo caminho para a inteligência artificial.",
+      "source": {
+        "title": "Can Digital Computers Think? (palestra na BBC)",
+        "author": "Alan M. Turing",
+        "year": "1951",
+        "publisher": "BBC Radio",
+        "doi": null,
+        "url": null
+      },
+      "date": "2026-09-28"
+    }
+  ]
+}
