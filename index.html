@@ -8,7 +8,7 @@
   <title>MIOLO — Um desafio científico por dia</title>
 
   <!-- Marca / favicon -->
-  <link rel="icon" type="image/svg+xml" href="assets/logo.svg" />
+  <link rel="icon" type="image/svg+xml" href="assets/logo.svg?v=2" />
 
   <!-- Tipografia (carregada quando houver internet; offline usa fontes do sistema) -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -57,7 +57,22 @@
 
       <div class="hero-content">
         <div class="brand">
-          <img class="brand-mark" src="assets/logo.svg" alt="Marca do MIOLO" width="44" height="44" />
+          <svg class="brand-mark" viewBox="0 0 64 64" width="44" height="44" aria-hidden="true" focusable="false">
+            <defs>
+              <linearGradient id="mioloGrad" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0" stop-color="#6d4aff"/>
+                <stop offset="1" stop-color="#14b8a6"/>
+              </linearGradient>
+            </defs>
+            <g>
+              <circle cx="32" cy="32" r="8.5" fill="url(#mioloGrad)"/>
+              <rect x="14" y="44" width="9" height="9" rx="3" fill="#7c3aed"/>
+              <rect x="41" y="11" width="9" height="9" rx="3" fill="#0891b2"/>
+              <circle cx="18.5" cy="48.5" r="1.6" fill="#ffffff"/>
+              <rect x="6" y="9" width="7" height="7" rx="2.4" fill="#a78bfa"/>
+              <path d="M12 44 L21 16 M27 31 L39 13 M21 16 L39 13 M12 44 L31 30 M23 47 L43 18" stroke="url(#mioloGrad)" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+            </g>
+          </svg>
           <h1 class="brand-name">MIOLO</h1>
         </div>
         <p class="slogan">UM DESAFIO CIENTÍFICO<strong> POR DIA</strong></p>
