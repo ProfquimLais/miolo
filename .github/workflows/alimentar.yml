@@ -1,0 +1,33 @@
+name: Vigiar alimentação do banco
+
+on:
+  schedule:
+    - cron: '12 08 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - id: check
+        run: node tools/verificar-alimentacao.js
+      - name: Abrir issue se faltar pouco banco
+        if: steps.check.outputs.precisa == 'sim'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DIAS: ${{ steps.check.outputs.faltando_dias }}
+          ULTIMA: ${{ steps.check.outputs.ultima_data }}
+        run: |
+          if gh issue list --state open --limit 50 | grep -q "alimente o MIOLO"; then
+            echo "Issue já aberta — nada a fazer."
+          else
+            gh issue create --title "Atenção: alimente o MIOLO" --body "Ao banco restam **$DIAS dias** (última data: **$ULTIMA**). Edite \`tools/miolo-bank-src.json\`, rode o build e faça push — veja o README."
+          fi

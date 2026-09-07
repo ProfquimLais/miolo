@@ -28,13 +28,16 @@ Modo desenvolvedor: `DEV_MODE = true` no topo de `game.js` revela o seletor ‹ 
 index.html            interface (cartão diário, grade, biblioteca, modais)
 game.js               lógica do jogo (Core + App) e FRASES_FALLBACK
 style.css             identidade visual
-data/frases.json      banco do dia (24 frases, versão 4)
+data/frases.json      banco do dia (48 frases, versão 5)
 tools/                alimentação e validação do banco
+.github/workflows/    vigilância diária da alimentação (alimentar.yml)
 ```
 
 ## Como alimentar o jogo
 
-O banco é **uma frase por dia**, com datas **únicas e consecutivas** começando na base `2026-09-05`. Hoje o acervo vai até `2026-09-28` (#024). Depois disso, o jogo exibe "SEM DESAFIO PARA HOJE" até você adicionar frases novas.
+O banco é **uma frase por dia**, com datas **únicas e consecutivas** começando na base `2026-09-05`. Hoje o acervo vai até `2026-10-22` (#048). Depois disso, o jogo exibe "SEM DESAFIO PARA HOJE" até você adicionar frases novas.
+
+Um fluxo de trabalho diário no GitHub (`.github/workflows/alimentar.yml`) roda `tools/verificar-alimentacao.js`: quando faltarem **≤ 7 dias** para o fim do banco, ele abre uma issue te avisando para alimentar.
 
 ### Passo a passo (não precisa mexer em `game.js`)
 
@@ -43,7 +46,7 @@ O banco é **uma frase por dia**, com datas **únicas e consecutivas** começand
    ```sh
    node tools/miolo-build.js tools/miolo-bank-src.json .
    ```
-3. **Valide** os 77 testes e as checagens:
+3. **Valide** os testes e as checagens:
    ```sh
    node tools/miolo-test.js
    node tools/syntax-check.js
@@ -60,13 +63,13 @@ O banco é **uma frase por dia**, com datas **únicas e consecutivas** começand
 
 O tabuleiro e o caminho da frase são **gerados automaticamente** no carregamento (Core, em `game.js`) — você nunca precisa desenhar grade à mão.
 
-## Banco atual (24 frases)
+## Banco atual (48 frases)
 
 | Área | Frases |
 |---|---|
-| Física | 8 |
-| Biologia | 5 |
-| Matemática | 5 |
-| Química | 3 |
-| Astronomia | 2 |
-| Computação | 1 |
+| Física | 18 |
+| Biologia | 8 |
+| Matemática | 8 |
+| Química | 5 |
+| Astronomia | 5 |
+| Computação | 4 |
