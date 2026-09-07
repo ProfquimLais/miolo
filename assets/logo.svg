@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="mioloGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6d4aff"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <!-- Nós conectados: representação abstrata de letras/formas se unindo em uma ideia central -->
+  <circle cx="32" cy="32" r="8.5" fill="url(#mioloGrad)"/>
+  <rect x="14" y="44" width="9" height="9" rx="3" fill="#7c3aed"/>
+  <rect x="41" y="11" width="9" height="9" rx="3" fill="#0891b2"/>
+  <circle cx="18.5" cy="48.5" r="1.6" fill="#ffffff"/>
+  <rect x="6" y="9" width="7" height="7" rx="2.4" fill="#a78bfa"/>
+  <!-- Conexões -->
+  <path d="M12 44 L21 16 M27 31 L39 13 M21 16 L39 13 M12 44 L31 30 M23 47 L43 18" stroke="url(#mioloGrad)" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+</svg>

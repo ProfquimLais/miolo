@@ -2,7 +2,8 @@
 MIOLO.zip
 csi-investigacao-quimica.html
 *.svg
-assets/
+assets/*
+!assets/logo.svg
 Backup_*/
 backup_*/
 para-publicar/
